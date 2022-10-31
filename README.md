@@ -19,5 +19,3 @@ Libraries used: Pandas, Matplotlib, Scipy, Numpy, Seaborn, Statistics
 
 A Tableau dashboard is also provided covering the points above.
 Link: https://public.tableau.com/app/profile/radyatra.sidharta/viz/SolarPotentialinCaliforniausingProjectSunroof/Dashboard1
-
-This notebook was created as a requirement for the completion of the Hacktiv8 Indonesia Full Time Data Science program.
